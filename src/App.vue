@@ -1,12 +1,11 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+// import HelloWorld from './components/HelloWorld.vue'
+import cartoon from './views/cartoon.vue'
 </script>
 
 <template>
-  <div>
-  
-  </div>
-  <HelloWorld msg="Vite + Vue" />
+  <!-- <HelloWorld msg="Vite + Vue" /> -->
+  <cartoon></cartoon>
 </template>
 
 <style scoped>
